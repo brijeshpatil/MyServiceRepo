@@ -1,0 +1,6 @@
+D:\MyWebService\MyWebService\bin\MyWebService.dll.config
+D:\MyWebService\MyWebService\bin\MyWebService.dll
+D:\MyWebService\MyWebService\bin\MyWebService.pdb
+D:\MyWebService\MyWebService\obj\Debug\MyWebService.csprojResolveAssemblyReference.cache
+D:\MyWebService\MyWebService\obj\Debug\MyWebService.dll
+D:\MyWebService\MyWebService\obj\Debug\MyWebService.pdb
